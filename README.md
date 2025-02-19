@@ -1,5 +1,5 @@
 # Trol-s-programming-Practice
-A new programming learner who is practicing
+//A new programming learner who is practicing
 #include<bits/stdc++.h>
 using namespace std;
 typedef struct ArcNode {
